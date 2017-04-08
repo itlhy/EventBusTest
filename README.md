@@ -1,5 +1,8 @@
 # EventBusTest
 EventBus的demo,简单入门
+#
+![image](https://github.com/itlhy/EventBusTest/blob/master/app/EventBus%E7%9A%84demo.gif)
+
 简单入门:
 好处: 发消息和接收消息完全解耦
 1.	新建一个项目,在build.gradle添加依赖  compile 'org.greenrobot:eventbus:3.0.0' 然后同步
